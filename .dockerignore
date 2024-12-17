@@ -1,0 +1,9 @@
+audio/id*
+csv
+test.py
+panding_audio.py
+*.csv
+.git  
+*.tmp  
+*.log  
+  
